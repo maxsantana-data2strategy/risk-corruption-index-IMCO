@@ -29,7 +29,7 @@ R (data analysis) | Tableau (interactive dashboard) | Public policy & governance
 ## 📊 Results
 
 <p align="center">
-<img src="assets/Tableau_Dashboard_Snapshot_IMCO_IRC.jpg" alt="IRC Tableau dashboard snapshot — IMCO's live corruption risk dashboard for Mexican public procurement" width="800">
+<img src="assets/Tableau_Dashboard_Snapshot_IMCO_IRC.jpg" alt="IRC Tableau dashboard snapshot — IMCO's live corruption risk dashboard for Mexican public procurement" width="600">
 </p>
 
 | Metric | Value |
