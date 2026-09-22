@@ -45,5 +45,3 @@ R (data analysis) | Tableau (interactive dashboard) | Public policy & governance
 Between 2018 and 2020, corruption risk increased in 147 of 247 federal institutions (59%), driven by weak competition, low transparency, and non-compliance. The tool was adopted as a reference in Mexican public policy debates on transparency and institutional integrity.
 
 ---
-
-<p align="center"><i>🌐 Full portfolio with live project filters: <a href="https://maxsantana-data2strategy.github.io/">maxsantana-data2strategy.github.io</a></i></p>
