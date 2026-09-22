@@ -12,8 +12,7 @@
 
 Identify corruption risk in public procurement across 260+ Mexican federal institutions by evaluating compliance with three principles: **competition, transparency, and rule of law**.
 
-**Role note:** IMCO designed the IRC methodology, collected the underlying procurement data, and built the Tableau dashboard. This repository documents my contribution — research support, interpretation of findings, and communications work — not the underlying dataset or scoring model, which remain IMCO's.
-
+**Role note:** IMCO designed the IRC methodology, collected the underlying procurement data, and built the Tableau dashboard. This repository documents my contribution — research support, interpretation of findings, and communications work.
 ## 🔧 What I Did
 
 **Research Support** — Supported the IRC project in a research capacity, focused on interpreting procurement risk findings across the 2018–2020 evaluation period.
