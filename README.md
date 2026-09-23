@@ -30,6 +30,10 @@ R (data analysis) | Tableau (interactive dashboard) | Public policy & governance
 <img src="assets/Tableau_Dashboard_Snapshot_IMCO_IRC.jpg" alt="IRC Tableau dashboard snapshot — IMCO's live corruption risk dashboard for Mexican public procurement" width="600">
 </p>
 
+<p align="center">
+<img src="assets/IRC_2020_High_Spending_Institutions.png" alt="IRC score 2020 — institutions with annual spend over MXN 3,000M (IMCO)" width="600">
+</p>
+
 | Metric | Value |
 |---|---|
 | Institutions evaluated | 247 (260+ federal institution universe) |
